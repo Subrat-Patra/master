@@ -209,44 +209,44 @@ function App() {
                 Monday.com
               </h6>
               <p class="mb-2">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Pricing
-                </a>
+                </span>
               </p>
               <p class="mb-2">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Contact us
-                </a>
+                </span>
               </p>
               <p className="mb-2">
-                <a class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   Templates
-                </a>
+                </span>
               </p>
               <p className="mb-2">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   SMB
-                </a>
+                </span>
               </p>
               <p className="mb-2">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Enterprise
-                </a>
+                </span>
               </p>
               <p className="mb-2">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Nonprofits
-                </a>
+                </span>
               </p>
               <p className="mb-2">
-                <a class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   App marketplace
-                </a>
+                </span>
               </p>
               <p className="mb-2">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   24/7 support
-                </a>
+                </span>
               </p>
             </div>
 
@@ -255,39 +255,39 @@ function App() {
                 Features
               </h6>
               <p class="mb-4">
-                <a class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   Docs
-                </a>
+                </span>
               </p>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Integrations
-                </a>
+                </span>
               </p>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Automations
-                </a>
+                </span>
               </p>
               <p>
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Files
-                </a>
+                </span>
               </p>
               <p>
-                <a class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   Dashboards
-                </a>
+                </span>
               </p>
               <p>
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Kanban
-                </a>
+                </span>
               </p>
               <p>
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Gantt
-                </a>
+                </span>
               </p>
             </div>
             <div class="">
@@ -295,24 +295,24 @@ function App() {
                 monday products
               </h6>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   monday work management
-                </a>
+                </span>
               </p>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   monday sales CRM
-                </a>
+                </span>
               </p>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   monday dev
-                </a>
+                </span>
               </p>
               <p>
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   More by monday.com
-                </a>
+                </span>
               </p>
             </div>
             <div class="">
@@ -320,34 +320,34 @@ function App() {
                 Use cases
               </h6>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Marketing
-                </a>
+                </span>
               </p>
               <p class="mb-4">
-                <a class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   Project management
-                </a>
+                </span>
               </p>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Sales
-                </a>
+                </span>
               </p>
               <p>
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Developers
-                </a>
+                </span>
               </p>
               <p>
-                <a class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   HR
-                </a>
+                </span>
               </p>
               <p>
-                <a class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   IT
-                </a>
+                </span>
               </p>
             </div>
             <div class="">
@@ -355,24 +355,24 @@ function App() {
                 Company
               </h6>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   About us
-                </a>
+                </span>
               </p>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Careers
-                </a>
+                </span>
               </p>
               <p class="mb-4">
-                <a  class="text-neutral-600 dark:text-neutral-200">
+                <span  class="text-neutral-600 dark:text-neutral-200">
                   Investor relations
-                </a>
+                </span>
               </p>
               <p>
-                <a class="text-neutral-600 dark:text-neutral-200">
+                <span class="text-neutral-600 dark:text-neutral-200">
                   Become a Partner
-                </a>
+                </span>
               </p>
             </div>
 
@@ -395,12 +395,12 @@ function App() {
 
         <div class="bg-neutral-200 p-6 text-center dark:bg-neutral-700">
           <span>© 2023 Copyright:</span>
-          <a
+          <span
             class="font-semibold text-neutral-600 dark:text-neutral-400"
            
           >
             Subrat Patra
-          </a>
+          </span>
         </div>
       </footer>
     </div>
