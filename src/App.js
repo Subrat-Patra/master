@@ -70,9 +70,9 @@ function App() {
                     </button>
                   </div>
                   <div className="w-auto hidden xl:block">
-                    <a className="btn-demo font-heading block py-3.5 px-5 uppercase text-xs tracking-px font-bold bg-white bg-opacity-20 hover:bg-opacity-10 transition rounded-10">
+                    <button className="btn-demo font-heading block py-3.5 px-5 uppercase text-xs tracking-px font-bold bg-white bg-opacity-20 hover:bg-opacity-10 transition rounded-10">
                       Obtenir une démo
-                    </a>
+                    </button>
                   </div>
                   <div className="hidden xl:block ml-5">
                     <div className="flex flex-row">
@@ -122,12 +122,12 @@ function App() {
                 Esalink vous accompagne dans la digitalisation de vos flux B2B
               </h2>
               <div className="flex flex-col justify-center items-center xl:items-start xl:justify-start md:flex-row gap-8 aos-init aos-animate">
-                <a className="block w-fit font-heading text-white bg-white py-2 px-6 rounded-lg cursor-pointer text-lg 2xl:text-xl bg-opacity-30 hover:bg-opacity-20 transition ">
+                <button className="block w-fit font-heading text-white bg-white py-2 px-6 rounded-lg cursor-pointer text-lg 2xl:text-xl bg-opacity-30 hover:bg-opacity-20 transition ">
                   Trouver votre solution EDI
-                </a>
-                <a className="block w-fit font-heading text-white bg-white py-2 px-6 rounded-lg cursor-pointer text-lg 2xl:text-xl bg-opacity-30 hover:bg-opacity-20 transition ">
+                </button>
+                <button className="block w-fit font-heading text-white bg-white py-2 px-6 rounded-lg cursor-pointer text-lg 2xl:text-xl bg-opacity-30 hover:bg-opacity-20 transition ">
                   Passer à la facturation électronique
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -150,9 +150,9 @@ function App() {
               Simple, flexible, and powerful. All it takes are boards, lists,
               and cards to get a clear view of who’s doing what and what needs
               to get done. Learn more in our{" "}
-              <a className="text-blue-500 underline">
+              <span className="text-blue-500 underline">
                 guide for getting started
-              </a>
+              </span>
             </p>
           </div>
           <div className="flex flex-row mt-6">
